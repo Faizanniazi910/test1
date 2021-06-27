@@ -130,8 +130,7 @@ def lisensi():
 def login():
 	os.system('clear')
 	print logo
-	     print "1.\x1b[1;93m Login "
-        time.sleep(0.05)
+	
         print "2.\x1b[1;95mLogin  Using Token"
         time.sleep(0.05)
         print "0.\033[1;95mExit           "
